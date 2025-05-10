@@ -1,0 +1,14 @@
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\bin\Debug\net8.0\StaticClasses.exe
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\bin\Debug\net8.0\StaticClasses.deps.json
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\bin\Debug\net8.0\StaticClasses.runtimeconfig.json
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\bin\Debug\net8.0\StaticClasses.dll
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\bin\Debug\net8.0\StaticClasses.pdb
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\StaticClasses.AssemblyInfoInputs.cache
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\StaticClasses.AssemblyInfo.cs
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\StaticClasses.dll
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\refint\StaticClasses.dll
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\StaticClasses.pdb
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\StaticClasses.genruntimeconfig.cache
+C:\QA C#\CSharp-Advanced\Class03\StaticClasses\obj\Debug\net8.0\ref\StaticClasses.dll

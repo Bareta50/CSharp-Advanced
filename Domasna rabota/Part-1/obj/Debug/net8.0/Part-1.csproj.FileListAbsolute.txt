@@ -1,0 +1,14 @@
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\bin\Debug\net8.0\Part-1.exe
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\bin\Debug\net8.0\Part-1.deps.json
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\bin\Debug\net8.0\Part-1.runtimeconfig.json
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\bin\Debug\net8.0\Part-1.dll
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\bin\Debug\net8.0\Part-1.pdb
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\Part-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\Part-1.AssemblyInfoInputs.cache
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\Part-1.AssemblyInfo.cs
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\Part-1.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\Part-1.dll
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\refint\Part-1.dll
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\Part-1.pdb
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\Part-1.genruntimeconfig.cache
+C:\QA C#\CSharp-Advanced\Domasna rabota\Part-1\obj\Debug\net8.0\ref\Part-1.dll

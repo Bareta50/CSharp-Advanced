@@ -1,0 +1,14 @@
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\bin\Debug\net8.0\Class06 Anonimus methods.exe
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\bin\Debug\net8.0\Class06 Anonimus methods.deps.json
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\bin\Debug\net8.0\Class06 Anonimus methods.runtimeconfig.json
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\bin\Debug\net8.0\Class06 Anonimus methods.dll
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\bin\Debug\net8.0\Class06 Anonimus methods.pdb
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\Class06 Anonimus methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\Class06 Anonimus methods.AssemblyInfoInputs.cache
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\Class06 Anonimus methods.AssemblyInfo.cs
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\Class06 Anonimus methods.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\Class06 Anonimus methods.dll
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\refint\Class06 Anonimus methods.dll
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\Class06 Anonimus methods.pdb
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\Class06 Anonimus methods.genruntimeconfig.cache
+C:\QA C#\CSharp-Advanced\Class06\Class06 Real\obj\Debug\net8.0\ref\Class06 Anonimus methods.dll

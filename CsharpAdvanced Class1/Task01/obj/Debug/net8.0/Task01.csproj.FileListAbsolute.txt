@@ -1,0 +1,11 @@
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\bin\Debug\net8.0\Task01.deps.json
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\bin\Debug\net8.0\Task01.dll
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\bin\Debug\net8.0\Task01.pdb
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\Task01.AssemblyInfoInputs.cache
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\Task01.AssemblyInfo.cs
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\Task01.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\Task01.dll
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\refint\Task01.dll
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\Task01.pdb
+C:\QA C#\CSharp-Advanced\CsharpAdvanced Class1\Task01\obj\Debug\net8.0\ref\Task01.dll

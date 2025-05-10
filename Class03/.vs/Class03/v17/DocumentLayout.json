@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp-Advanced\\Class03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\ordersstaticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\ordersstaticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\entities\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\entities\\moddels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\moddels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\entities\\moddels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\moddels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\entities\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|c:\\qa c#\\csharp-advanced\\class03\\staticclasses\\entities\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D50E73-0938-4577-B78C-6F80500A042F}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersStaticDB.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\OrdersStaticDB.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\OrdersStaticDB.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\OrdersStaticDB.cs",
+              "RelativeToolTip": "StaticClasses\\OrdersStaticDB.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwC4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:39:04.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Moddels\\User.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Entities\\Moddels\\User.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Moddels\\User.cs",
+              "RelativeToolTip": "StaticClasses\\Entities\\Moddels\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:01:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Moddels\\Order.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Entities\\Moddels\\Order.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Moddels\\Order.cs",
+              "RelativeToolTip": "StaticClasses\\Entities\\Moddels\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:53:24.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Validationhelper.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Helpers\\Validationhelper.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Entities\\Helpers\\Validationhelper.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Helpers\\Validationhelper.cs",
+              "RelativeToolTip": "StaticClasses\\Entities\\Helpers\\Validationhelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:34:22.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextHelper.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Helpers\\TextHelper.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Entities\\Helpers\\TextHelper.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Helpers\\TextHelper.cs",
+              "RelativeToolTip": "StaticClasses\\Entities\\Helpers\\TextHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:27:19.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Helpers\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Entities\\Helpers\\ConsoleHelper.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Helpers\\ConsoleHelper.cs",
+              "RelativeToolTip": "StaticClasses\\Entities\\Helpers\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:14:22.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Program.cs",
+              "RelativeToolTip": "StaticClasses\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:52:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "StaticClasses\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:06:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "StaticClasses\\Entities\\Enum\\OrderStatus.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\Class03\\StaticClasses\\Entities\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "StaticClasses\\Entities\\Enum\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:55:15.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

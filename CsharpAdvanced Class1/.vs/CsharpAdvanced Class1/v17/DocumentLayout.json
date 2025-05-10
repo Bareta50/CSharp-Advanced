@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D74896A6-7C74-4815-844F-9ECC682AF188}|Part1\\Part1.csproj|c:\\qa c#\\csharp-advanced\\csharpadvanced class1\\part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74896A6-7C74-4815-844F-9ECC682AF188}|Part1\\Part1.csproj|solutionrelative:part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197752ED-C848-43B4-B371-6689B272CD8D}|Task01\\Task01.csproj|c:\\qa c#\\csharp-advanced\\csharpadvanced class1\\task01\\textservice\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197752ED-C848-43B4-B371-6689B272CD8D}|Task01\\Task01.csproj|solutionrelative:task01\\textservice\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197752ED-C848-43B4-B371-6689B272CD8D}|Task01\\Task01.csproj|c:\\qa c#\\csharp-advanced\\csharpadvanced class1\\task01\\models\\namecountresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197752ED-C848-43B4-B371-6689B272CD8D}|Task01\\Task01.csproj|solutionrelative:task01\\models\\namecountresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197752ED-C848-43B4-B371-6689B272CD8D}|Task01\\Task01.csproj|c:\\qa c#\\csharp-advanced\\csharpadvanced class1\\task01\\task01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{197752ED-C848-43B4-B371-6689B272CD8D}|Task01\\Task01.csproj|solutionrelative:task01\\task01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task01",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Task01\\Task01.csproj",
+              "RelativeDocumentMoniker": "Task01\\Task01.csproj",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Task01\\Task01.csproj",
+              "RelativeToolTip": "Task01\\Task01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T17:01:43.942Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameCountResult.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Task01\\Models\\NameCountResult.cs",
+              "RelativeDocumentMoniker": "Task01\\Models\\NameCountResult.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Task01\\Models\\NameCountResult.cs",
+              "RelativeToolTip": "Task01\\Models\\NameCountResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:10:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextService.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Task01\\TextService\\TextService.cs",
+              "RelativeDocumentMoniker": "Task01\\TextService\\TextService.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Task01\\TextService\\TextService.cs",
+              "RelativeToolTip": "Task01\\TextService\\TextService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:02:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Part1\\Program.cs",
+              "RelativeDocumentMoniker": "Part1\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp-Advanced\\CsharpAdvanced Class1\\Part1\\Program.cs",
+              "RelativeToolTip": "Part1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:53:33.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

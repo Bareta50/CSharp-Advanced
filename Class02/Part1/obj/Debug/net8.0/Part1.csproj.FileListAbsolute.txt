@@ -1,0 +1,14 @@
+C:\QA C#\CSharp-Advanced\Class02\Part1\bin\Debug\net8.0\Part1.exe
+C:\QA C#\CSharp-Advanced\Class02\Part1\bin\Debug\net8.0\Part1.deps.json
+C:\QA C#\CSharp-Advanced\Class02\Part1\bin\Debug\net8.0\Part1.runtimeconfig.json
+C:\QA C#\CSharp-Advanced\Class02\Part1\bin\Debug\net8.0\Part1.dll
+C:\QA C#\CSharp-Advanced\Class02\Part1\bin\Debug\net8.0\Part1.pdb
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\Part1.AssemblyInfoInputs.cache
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\Part1.AssemblyInfo.cs
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\Part1.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\Part1.dll
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\refint\Part1.dll
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\Part1.pdb
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\Part1.genruntimeconfig.cache
+C:\QA C#\CSharp-Advanced\Class02\Part1\obj\Debug\net8.0\ref\Part1.dll
